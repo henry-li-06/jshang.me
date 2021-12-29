@@ -1,0 +1,12 @@
+#nav-bar {
+  text-align: right;
+  color: grey;
+}
+
+.nav-bar-link {
+  margin-left: 10%;
+}
+
+.nav-bar-link a {
+  text-decoration: none;
+}
