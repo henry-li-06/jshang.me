@@ -1,4 +1,3 @@
-lol random edit -- don't use create-react-app
 
 # Getting Started with Create React App
 
